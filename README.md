@@ -16,3 +16,4 @@
 ●时间段，假设一周七天都可以上课，一个学期有19周。
 一张正确的课表应至少满足以下硬约束条件：
 一个教师或者一个班级或者一个教室在同一时间段内只能安排一门课程；
+https://github.com/chunxi-alpc/CoursesScheduleGA/blob/master/图片1.png
